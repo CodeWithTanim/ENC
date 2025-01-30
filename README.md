@@ -5,7 +5,7 @@
 This is a tools which is for secure termux script with Marshal, Zlib, B64 any many more.
 
 # Install on Termux :
-      rm -rf TOXIC-ENC
+      rm -rf ENC
       git clone https://github.com/CodeWithTanim/ENC.git
 	  ls
       cd TOXIC-ENC
